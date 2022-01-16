@@ -1,0 +1,6 @@
+{
+    "log_level": "DEBUG",
+    "stores_filepath": "source_data/stores.json",
+    "stores_url": "https://www.cookies.com/api/stores",
+    "db_conn_uri": "sqlite:///database.db"
+}
